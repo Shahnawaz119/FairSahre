@@ -42,10 +42,10 @@ The demo group is stored in your browser. If you want the original demo data bac
 
 ## What we want from you
 
-Find problems, fix them, and write `BUGS.md` in the repo (what you saw, what was going on, what you changed).
+Find problems, fix them, and record them in `BUGS.md` (this file is already in the repo). Commit `BUGS.md` together with your code changes.
 
 ## How to submit
 
 1. Create a **new public repository** on your GitHub account (do not fork an existing private company repo).
-2. Push your work there, including `BUGS.md`.
+2. Push your work there, including your filled-in `BUGS.md`.
 3. Send us the repository URL.
